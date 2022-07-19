@@ -14,8 +14,4 @@ Coding TEST 합격하는 그날까지 ❗❗
 
 **SWEA**
 
-
-
-
-
-
+📌[DAY1](./SWEA/day1/)
