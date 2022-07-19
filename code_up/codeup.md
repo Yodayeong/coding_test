@@ -1,3 +1,4 @@
+
 [codeup_6001](./codeup_6001.py)
 
 [codeup_6002](./codeup_6002.py)
@@ -181,3 +182,9 @@
 [codeup_6091](./codeup_6091.py)
 
 [codeup_6092](./codeup_6092.py)
+
+[codeup_6093](./codeup_6093.py)
+
+[codeup_6094](./codeup_6094.py)
+
+[codeup_6095](./codeup_6095.py)
