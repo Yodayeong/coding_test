@@ -17,3 +17,5 @@
 **🎃SWEA🎃**
 
 📌[DAY1](./SWEA/day1/)
+
+📌[DAY2](./SWEA/day2/)
