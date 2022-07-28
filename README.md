@@ -15,6 +15,8 @@
 
 **🎃SWEA🎃**
 
+##----------D1
+
 📌[DAY1](./SWEA/day1/)
 
 📌[DAY2](./SWEA/day2/)
@@ -24,6 +26,8 @@
 📌[DAY4](./SWEA/day4/)
 
 📌[DAY5](./SWEA/day5/)
+
+📌[DAY6](./SWEA/day6/)
 
 **🎃백준🎃**
 
